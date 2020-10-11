@@ -1,0 +1,13 @@
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\bin\Debug\netcoreapp3.1\TwoWayLinkedList.exe
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\bin\Debug\netcoreapp3.1\TwoWayLinkedList.deps.json
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\bin\Debug\netcoreapp3.1\TwoWayLinkedList.runtimeconfig.json
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\bin\Debug\netcoreapp3.1\TwoWayLinkedList.runtimeconfig.dev.json
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\bin\Debug\netcoreapp3.1\TwoWayLinkedList.dll
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\bin\Debug\netcoreapp3.1\TwoWayLinkedList.pdb
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\obj\Debug\netcoreapp3.1\TwoWayLinkedList.csprojAssemblyReference.cache
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\obj\Debug\netcoreapp3.1\TwoWayLinkedList.AssemblyInfoInputs.cache
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\obj\Debug\netcoreapp3.1\TwoWayLinkedList.AssemblyInfo.cs
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\obj\Debug\netcoreapp3.1\TwoWayLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\obj\Debug\netcoreapp3.1\TwoWayLinkedList.dll
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\obj\Debug\netcoreapp3.1\TwoWayLinkedList.pdb
+C:\Users\goldl\source\repos\DbPractice\TwoWayLinkedList\obj\Debug\netcoreapp3.1\TwoWayLinkedList.genruntimeconfig.cache
